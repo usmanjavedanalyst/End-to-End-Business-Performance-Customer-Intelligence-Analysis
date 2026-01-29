@@ -1,8 +1,8 @@
-# 🏢 **End-to-End Business Performance & Customer Intelligence Analysis**
+#  **End-to-End Business Performance & Customer Intelligence Analysis**
 
 ---
 
-## 📖 **Project Overview**
+## **Project Overview**
 
 This project demonstrates a **full-cycle business analytics workflow**, simulating the role of a **Junior Data Analyst** in a real organization.
 
@@ -10,7 +10,7 @@ The objective was to transform raw business data into **actionable insights** by
 
 ---
 
-## 🎯 **Business Objectives**
+## **Business Objectives**
 
 - Identify why **profit is declining despite sales growth**
 - Determine **high-value customers** and retention opportunities
@@ -20,7 +20,7 @@ The objective was to transform raw business data into **actionable insights** by
 
 ---
 
-## 🛠 **Tools & Technologies**
+## **Tools & Technologies**
 
 - **Excel** — Data validation, KPIs, pivot tables, summary analysis  
 - **SQL (SQLite)** — Structured business queries and performance analysis  
@@ -30,7 +30,7 @@ The objective was to transform raw business data into **actionable insights** by
 
 ---
 
-## 🔄 **Project Workflow**
+## **Project Workflow**
 
 1. **Dataset understanding** and business assumptions  
 2. **Data cleaning and validation** (Excel & Python)  
@@ -43,7 +43,7 @@ The objective was to transform raw business data into **actionable insights** by
 
 ---
 
-## 📊 **Key Deliverables**
+## **Key Deliverables**
 
 - Cleaned and validated dataset  
 - SQL analysis scripts and SQLite database  
@@ -56,7 +56,7 @@ The objective was to transform raw business data into **actionable insights** by
 
 ---
 
-## 📈 **Key Insights **
+## **Key Insights **
 
 - Sales growth was largely driven by **high discounting**, negatively impacting profit margins  
 - A **small percentage of customers** contributed a majority of total profit  
